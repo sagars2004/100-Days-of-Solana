@@ -1,0 +1,24 @@
+{
+  "name": "100-days-of-solana",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sagars2004/100-Days-of-Solana.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sagars2004/100-Days-of-Solana/issues"
+  },
+  "homepage": "https://github.com/sagars2004/100-Days-of-Solana#readme",
+  "dependencies": {
+    "@solana/kit": "^6.8.0",
+    "dotenv": "^17.4.2"
+  }
+}
