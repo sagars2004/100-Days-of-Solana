@@ -1,0 +1,17 @@
+{
+  "name": "day-10",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.4.21"
+  },
+  "dependencies": {
+    "@solana/kit": "^0.0.0"
+  }
+}
