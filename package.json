@@ -19,7 +19,8 @@
   },
   "homepage": "https://github.com/sagars2004/100-Days-of-Solana#readme",
   "dependencies": {
-    "@solana/kit": "^6.8.0",
+    "@solana-program/system": "^0.12.0",
+    "@solana/kit": "^6.9.0",
     "@solana/web3.js": "^1.98.4",
     "dotenv": "^17.4.2"
   }
